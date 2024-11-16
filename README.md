@@ -15,5 +15,5 @@ about me
 - ⚡ Fun fact: ...
 -->
 My stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harryngai&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HOICHINGG&show_icons=true&theme=tokyonight)
 
